@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+
+.side-bar {
+    display: block;
+    float: none;
+    position: relative;
+    width: 100%;
+}
+
+.side-bar .nav,
+.side-bar .tag-list {
+    text-align: center;
+}
+
+.main {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.article-list {
+    margin-right: 0;
+}
+
+#menu-toggle {
+    display: block;
+    margin-top: 5px;
+    float: right;
+    color: #999999;
+}
+
+#menu-checkbox:checked ~ .nav,
+#menu-checkbox:checked ~ .tag-list {
+    display: none;
+}
+
+#menu-checkbox {
+    display: none;
+}
+

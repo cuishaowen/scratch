@@ -22,6 +22,10 @@ a {
 
 }
 
+#menu-toggle{
+    display: none;
+}
+
 .side-bar .nav a,
 .side-bar .tag-list a{
     display: block;
