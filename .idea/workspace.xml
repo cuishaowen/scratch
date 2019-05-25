@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99c38554-ede6-46f6-9d9f-2c921f4c3b4d" name="Default Changelist" comment="" />
+    <list id="47eb50e4-8396-40e6-8971-6929127b224f" name="my first css experience" comment="my first css experience">
+      <changelist_data name="cuishaowen" email="cuishaowen2013@qq.com" date="1558760973000">
+        <option name="date" value="1558760973000" />
+        <option name="email" value="cuishaowen2013@qq.com" />
+        <option name="name" value="cuishaowen" />
+      </changelist_data>
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -80,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6162">
-              <caret line="237" lean-forward="true" selection-start-line="237" selection-end-line="237" />
+            <state relative-caret-position="180">
+              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -124,7 +132,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -168,7 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,10 +192,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/node_modules/vue-cli" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -250,7 +259,7 @@
       <workItem from="1558630420619" duration="811000" />
       <workItem from="1558631304844" duration="668000" />
       <workItem from="1558694676841" duration="10035000" />
-      <workItem from="1558760824575" duration="245000" />
+      <workItem from="1558760824575" duration="884000" />
     </task>
     <task id="LOCAL-00001" summary="my first css experience">
       <created>1558760973747</created>
@@ -259,11 +268,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558760973747</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="my first css experience">
+      <created>1558761192485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558761192485</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39265000" />
+    <option name="totallyTimeSpent" value="39904000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,7 +293,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25184405" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25184405" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -286,10 +302,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4002169" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.18522602" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.18522602" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.36008677" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3296582" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.35942668" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -298,6 +314,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -353,8 +379,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6162">
-          <caret line="237" lean-forward="true" selection-start-line="237" selection-end-line="237" />
+        <state relative-caret-position="180">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
         </state>
       </provider>
     </entry>
