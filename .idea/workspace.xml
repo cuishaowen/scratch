@@ -8,7 +8,6 @@
         <option name="email" value="cuishaowen2013@qq.com" />
         <option name="name" value="cuishaowen" />
       </changelist_data>
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -259,7 +258,7 @@
       <workItem from="1558630420619" duration="811000" />
       <workItem from="1558631304844" duration="668000" />
       <workItem from="1558694676841" duration="10035000" />
-      <workItem from="1558760824575" duration="884000" />
+      <workItem from="1558760824575" duration="1554000" />
     </task>
     <task id="LOCAL-00001" summary="my first css experience">
       <created>1558760973747</created>
@@ -279,7 +278,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39904000" />
+    <option name="totallyTimeSpent" value="40574000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -291,7 +290,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25184405" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
